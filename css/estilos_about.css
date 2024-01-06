@@ -11,7 +11,7 @@ body {
 .contenedor {
     padding: 60px 0;
     width: 90%;
-    max-width: 1000px;
+    max-width: 1800px;
     margin: auto;
     overflow: hidden;
 }
@@ -77,11 +77,11 @@ main .sobre-nosotros{
 }
 
 .imagen-about-us{
-    width: 48%;
+    width: 80%;
 }
 
 .sobre-nosotros .contenido-textos{
-    width: 48%;
+    width: 80%;
 }
 
 .contenido-textos h3{
@@ -89,13 +89,13 @@ main .sobre-nosotros{
 }
 
 .contenido-textos h3 span{
-    background: #4d0686;
+    background: #010d6a;
     color: #fff;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 25px;
     padding: 2px;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
     margin-right: 5px;
